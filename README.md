@@ -1,5 +1,4 @@
 ### Hi there 👋
-Profile Views [![HitCount](https://hits.dwyl.com/RUDHRAM01/RUDHRAM01.svg?style=flat-square)](http://hits.dwyl.com/RUDHRAM01/RUDHRAM01)
 
 <!--
 **RUDHRAM01/RUDHRAM01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
