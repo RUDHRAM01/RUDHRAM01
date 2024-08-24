@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudhram Saraswat</h1>
-<h3 align="center">A passionate full stack developer </h3>
+<h3 align="center">A passionate Software Developer Engineer</h3>
 
 - 💬 Ask me about *React, Next, Angular, NodeJS and AWS*
 <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" align="right" />
